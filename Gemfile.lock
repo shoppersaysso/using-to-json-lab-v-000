@@ -199,7 +199,6 @@ DEPENDENCIES
   faker
   jbuilder (~> 2.0)
   jquery-rails
-  json (= 1.8.3)
   poltergeist (~> 1.14.0)
   pry
   pry-nav
