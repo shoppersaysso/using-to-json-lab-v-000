@@ -41,6 +41,7 @@ group :development, :test do
   gem 'capybara'
   gem 'faker'
   gem 'shoulda'
+  gem 'phantomjs-prebuilt'
   gem 'poltergeist', '~> 1.14.0'
 end
 
