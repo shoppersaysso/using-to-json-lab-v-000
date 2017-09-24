@@ -92,7 +92,7 @@ GEM
     multi_json (1.12.2)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
-    poltergeist (1.16.0)
+    poltergeist (1.14.0)
       capybara (~> 2.1)
       cliver (~> 0.3.1)
       websocket-driver (>= 0.2.0)
@@ -214,7 +214,7 @@ DEPENDENCIES
   faker
   jbuilder (~> 2.0)
   jquery-rails
-  poltergeist
+  poltergeist (~> 1.14.0)
   pry
   pry-nav
   rails (= 4.2.5)
