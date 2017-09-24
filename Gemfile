@@ -7,6 +7,8 @@ gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
+gem 'phantomjs-prebuilt'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -41,7 +43,6 @@ group :development, :test do
   gem 'capybara'
   gem 'faker'
   gem 'shoulda'
-  gem 'phantomjs-prebuilt'
   gem 'poltergeist', '~> 1.14.0'
 end
 
