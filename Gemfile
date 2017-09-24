@@ -41,7 +41,7 @@ group :development, :test do
   gem 'capybara'
   gem 'faker'
   gem 'shoulda'
-  gem 'cliver'
+  gem 'poltergeist', '~> 1.16.0'
 end
 
 group :development do
